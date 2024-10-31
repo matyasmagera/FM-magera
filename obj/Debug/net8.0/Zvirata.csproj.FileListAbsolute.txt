@@ -1,0 +1,14 @@
+C:\Users\MatyášMagera\.vscode\Kamen\Zvirata\bin\Debug\net8.0\Zvirata.exe
+C:\Users\MatyášMagera\.vscode\Kamen\Zvirata\bin\Debug\net8.0\Zvirata.deps.json
+C:\Users\MatyášMagera\.vscode\Kamen\Zvirata\bin\Debug\net8.0\Zvirata.runtimeconfig.json
+C:\Users\MatyášMagera\.vscode\Kamen\Zvirata\bin\Debug\net8.0\Zvirata.dll
+C:\Users\MatyášMagera\.vscode\Kamen\Zvirata\bin\Debug\net8.0\Zvirata.pdb
+C:\Users\MatyášMagera\.vscode\Kamen\Zvirata\obj\Debug\net8.0\Zvirata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MatyášMagera\.vscode\Kamen\Zvirata\obj\Debug\net8.0\Zvirata.AssemblyInfoInputs.cache
+C:\Users\MatyášMagera\.vscode\Kamen\Zvirata\obj\Debug\net8.0\Zvirata.AssemblyInfo.cs
+C:\Users\MatyášMagera\.vscode\Kamen\Zvirata\obj\Debug\net8.0\Zvirata.csproj.CoreCompileInputs.cache
+C:\Users\MatyášMagera\.vscode\Kamen\Zvirata\obj\Debug\net8.0\Zvirata.dll
+C:\Users\MatyášMagera\.vscode\Kamen\Zvirata\obj\Debug\net8.0\refint\Zvirata.dll
+C:\Users\MatyášMagera\.vscode\Kamen\Zvirata\obj\Debug\net8.0\Zvirata.pdb
+C:\Users\MatyášMagera\.vscode\Kamen\Zvirata\obj\Debug\net8.0\Zvirata.genruntimeconfig.cache
+C:\Users\MatyášMagera\.vscode\Kamen\Zvirata\obj\Debug\net8.0\ref\Zvirata.dll
